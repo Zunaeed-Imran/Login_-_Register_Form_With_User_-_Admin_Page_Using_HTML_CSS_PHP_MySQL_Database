@@ -1,3 +1,5 @@
 <?php
+$connect = new mysqli('localhost', 'root', '', 'login_registration');
 
-$conn = mysqli_connect('localhost', 'root', '', 'user_db');
+
+?>
